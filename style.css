@@ -1,0 +1,21 @@
+#profile-container {
+    width: 200px;
+    background-color: rgb(245, 245, 245);
+    border: 1px solid rgb(200, 200, 200);
+ }
+
+ #profile-image {
+    width: 100%;
+ }
+
+ #profile-name {
+    margin-top: 4pt;
+    text-align: center;
+    font-size: xx-large;
+    font-weight: bold;
+ }
+
+ #profile-job {
+    margin-bottom: 8pt;
+    text-align: center;
+ }
