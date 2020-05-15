@@ -19,3 +19,11 @@
     margin-bottom: 8pt;
     text-align: center;
  }
+
+ #footer {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    background-color: rgb(255, 230, 130);
+    text-align: center;
+ }
